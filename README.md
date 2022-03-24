@@ -1,25 +1,45 @@
-# Pop_OS 21.10 Shell Script posInstall
+# 🐧 Pop!_OS 21.10 Shell Script posInstall
 
-Apenas um Shell Script básico de pós-instalção do Pop_OS 21.10 🐧
+Apenas um Shell Script básico de pós-instalção do Pop_OS 21.10
 <br>
 <br>
-## Programas que vão ser instalados
+
+## 📥 Instalação
+```bash
+# Mova o arquivo setup.sh para a pasta /home
+
+# Execute o arquivo
+bash setup.sh
+```
+<br>
+
+## ⌨️ Programas apt
 
 - Flameshot
 - Gnome Tweaks
 - Neofetch
 - Cheese
+- Timeshift
+- Snap
+- Git
+- Vim
+- Audacity
+- Cmatrix
+- Curl
+<br>
 
-## Programas externos
+## 📤 Programas externos
 
 - Vivaldi Browser
-- Discord Canary
+- Discord
 - Hyper Terminal
 - 4K Video Downloader
 - TickTick
 - MEGAsync
+- Visual Studio Code
+<br>
 
-## Pacotes Flatpak
+## 📦 Pacotes Flatpak
 
 - Figma for Linux
 - Spotify
