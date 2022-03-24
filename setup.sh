@@ -48,15 +48,15 @@ sudo dpkg -i $DOWNLOADS_DIRECTORY/*.deb
 
 ### Instação dos programas no APT
 for app_name in ${APPS_TO_INSTALL[@]}; do
-  if ! dpkg -l | grep -q $app_name; then
-    apt install "$app_name" -y
+  if ! dpkg -i | grep -q $app_name; then
+    sudo apt install "$app_name" -y
   else
-    echo "[Instalado] - $app_name"
+    echo "[Programa instalado] - $app_name"
   fi
 done
 
 sudo apt install -f
-sudo apt-get install ubuntu-restricted-extras
+# sudo apt-get install ubuntu-restricted-extras
 
 
 ### Instalando pacotes Flatpak
