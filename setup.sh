@@ -12,11 +12,12 @@ APPS_TO_INSTALL=(
 )
 
 URL_VIVALDI="https://downloads.vivaldi.com/stable/vivaldi-stable_5.1.2567.66-1_amd64.deb"
-URL_DISCORD_CANARY="https://discord.com/api/download/canary?platform=linux&format=deb"
-URL_HYPER_TERMINAL="https://releases.hyper.is/download/deb"
-URL_4K_VIDEO_DOWNLOADER="https://dl.4kdownload.com/app/4kvideodownloader_4.20.1-1_amd64.deb?source=website"
+URL_DISCORD="https://dl.discordapp.net/apps/linux/0.0.17/discord-0.0.17.deb"
+URL_HYPER_TERMINAL="https://github.com/vercel/hyper/releases/download/v3.2.0/hyper_3.2.0_amd64.deb"
+URL_4K_VIDEO_DOWNLOADER="https://dl.4kdownload.com/app/4kvideodownloader_4.20.1-1_amd64.deb"
 URL_TICKTICK="https://appest-public.s3.amazonaws.com/download/linux/linux_deb_x64/ticktick-0.0.5-amd64.deb"
 URL_MEGASYNC="https://mega.nz/linux/repo/xUbuntu_21.10/amd64/megasync-xUbuntu_21.10_amd64.deb"
+URL_VSCODE="https://az764295.vo.msecnd.net/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/code_1.65.2-1646927742_amd64.deb"
 
 DOWNLOADS_DIRECTORY="$HOME/Downloads/softwares"
 
@@ -37,11 +38,12 @@ flatpak update
 ### Download e instalação dos programas externos
 mkdir "$DOWNLOADS_DIRECTORY"
 wget -c "$URL_VIVALDI" -P "$DOWNLOADS_DIRECTORY"
-wget -c "$URL_DISCORD_CANARY" -P "$DOWNLOADS_DIRECTORY"
+wget -c "$URL_DISCORD" -P "$DOWNLOADS_DIRECTORY"
 wget -c "$URL_HYPER_TERMINAL" -P "$DOWNLOADS_DIRECTORY"
 wget -c "$URL_4K_VIDEO_DOWNLOADER" -P "$DOWNLOADS_DIRECTORY"
 wget -c "$URL_TICKTICK" -P "$DOWNLOADS_DIRECTORY"
 wget -c "$URL_MEGASYNC" -P "$DOWNLOADS_DIRECTORY"
+wget -c "$URL_VSCODE" -P "$DOWNLOADS_DIRECTORY"
 
 sudo dpkg -i $DOWNLOADS_DIRECTORY/*.deb
 
