@@ -9,6 +9,11 @@ APPS_TO_INSTALL=(
   cheese
   timeshift
   snapd
+  git
+  vim
+  audacity
+  cmatrix
+  curl
 )
 
 URL_VIVALDI="https://downloads.vivaldi.com/stable/vivaldi-stable_5.1.2567.66-1_amd64.deb"
