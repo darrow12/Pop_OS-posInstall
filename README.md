@@ -1,6 +1,6 @@
 # 🐧 Pop!_OS 21.10 - Shell Script pos-install
 
-Apenas um Shell Script básico de pós-instalção do Pop_OS 21.10 para uso pessoal.
+Apenas um Shell Script básico de pós-instalção do Pop_OS para uso pessoal.
 <br>
 <br>
 
