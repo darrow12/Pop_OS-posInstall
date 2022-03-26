@@ -66,6 +66,13 @@ sudo apt install -f
 # sudo apt-get install ubuntu-restricted-extras
 
 
+### Instalação do Node
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+source ~/.bashrc
+nvm list-remote
+nvm install v16.14.2
+
+
 ### Instalando pacotes Flatpak
 flatpak install figma
 flatpak install spotify
