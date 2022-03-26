@@ -28,17 +28,14 @@ DOWNLOADS_DIRECTORY="$HOME/Downloads/softwares"
 
 # ------------ #
 
-
 ### Atualizando a parada toda
 sudo apt update
-sudo apt upgrade
-sudo apt dist-upgrade
-sudo apt full-upgrade
+sudo apt upgrade -y
+sudo apt dist-upgrade -y
+sudo apt full-upgrade -y
 sudo apt install -f
 sudo apt update -y
-sudo apt autoclean
-flatpak update
-
+flatpak update -y
 
 ### Download e instalação dos programas externos
 mkdir "$DOWNLOADS_DIRECTORY"
@@ -51,20 +48,20 @@ wget -c "$URL_MEGASYNC" -P "$DOWNLOADS_DIRECTORY"
 wget -c "$URL_VSCODE" -P "$DOWNLOADS_DIRECTORY"
 
 sudo dpkg -i $DOWNLOADS_DIRECTORY/*.deb
-
+sudo apt install -f
 
 ### Instação dos programas no APT
 for app_name in ${APPS_TO_INSTALL[@]}; do
   if ! dpkg -i | grep -q $app_name; then
-    sudo apt install "$app_name" -y
+    sudo apt install -y "$app_name"
   else
     echo "[Programa instalado] - $app_name"
   fi
 done
 
+sudo apt update
 sudo apt install -f
 # sudo apt-get install ubuntu-restricted-extras
-
 
 ### Instalação do Node
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
@@ -72,18 +69,15 @@ source ~/.bashrc
 nvm list-remote
 nvm install v16.14.2
 
-
 ### Instalando pacotes Flatpak
-flatpak install figma
-flatpak install spotify
-flatpak install blender
-flatpak install slack
-flatpak install flathub com.obsproject.Studio
-flatpak install flathub org.gimp.GIMP
-flatpak install flathub org.videolan.VLC
-flatpak install flathub org.onlyoffice.desktopeditors
-# flatpak install flathub re.sonny.Tangram
-
+flatpak install figma -y
+flatpak install spotify -y
+flatpak install slack -y
+flatpak install flathub org.blender.Blender -y
+flatpak install flathub com.obsproject.Studio -y
+flatpak install flathub org.gimp.GIMP -y
+flatpak install flathub org.videolan.VLC -y
+flatpak install flathub org.onlyoffice.desktopeditors -y
 
 # ------ Última atualização ------ #
 
