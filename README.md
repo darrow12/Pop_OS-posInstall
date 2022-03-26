@@ -1,4 +1,4 @@
-# 🐧 Pop!_OS 21.10 - Shell Script pos-install
+# 🐧 Pop!_OS - Shell Script de pós-instalação
 
 Apenas um Shell Script básico de pós-instalção do Pop_OS para uso pessoal.
 <br>
@@ -26,6 +26,8 @@ bash setup.sh
 - Audacity
 - Cmatrix
 - Curl
+- NVM
+- Node.js (v16.14.2)
 <br>
 
 ## 📤 Programas externos
