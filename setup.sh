@@ -37,6 +37,15 @@ sudo apt install -f
 sudo apt update -y
 flatpak update -y
 
+### Criação de algumas pastas
+mkdir .themes
+mkdir .icons
+mkdir code
+cd Pictures/ && mkdir Screenshots
+mkdir Storage
+mkdir Memes
+cd ..
+
 ### Download e instalação dos programas externos
 mkdir "$DOWNLOADS_DIRECTORY"
 wget -c "$URL_VIVALDI" -P "$DOWNLOADS_DIRECTORY"
@@ -66,8 +75,11 @@ sudo apt install -f
 ### Instalação do Node
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 source ~/.bashrc
+sudo update
 nvm list-remote
 nvm install v16.14.2
+
+### 
 
 ### Instalando pacotes Flatpak
 flatpak install figma -y
@@ -88,4 +100,9 @@ sudo apt full-upgrade
 sudo apt autoclean
 sudo apt install -f
 flatpak update
+
+echo "Instalação concluída!"
+echo ""
+echo "Caso não consiga utilizar um programa, feche e abra o terminal, ou, reinicie o computador com: sudo reboot now"
+echo "Caso nenhum dessas dicas funcione, foi mal, e, tente instalar o programa manualmente."
 # sudo reboot now
