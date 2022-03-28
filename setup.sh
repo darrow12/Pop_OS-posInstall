@@ -43,6 +43,7 @@ mkdir .icons
 mkdir code
 cd Pictures/ && mkdir Screenshots
 mkdir Storage
+mkdir Wallpapers
 mkdir Memes
 cd ..
 
