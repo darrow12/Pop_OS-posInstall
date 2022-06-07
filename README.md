@@ -1,36 +1,40 @@
 # 🐧 Pop!_OS - Shell Script de pós-instalação
 
-Apenas um Shell Script básico de pós-instalção do Pop!_OS para uso pessoal.
+Just a basic Pop!_OS post-installation Shell Script for personal use.
 <br>
 <br>
 
-## 📥 Instalação
+## 📥 Installation
 ```bash
-# Mova o arquivo setup.sh para a pasta /home
+Move the setup.sh file to the /home folder
 
-# Execute o arquivo
+# Execute the file
 bash setup.sh
 ```
 <br>
 
-## ⌨️ Programas apt
+## ⌨️ Apps
 
-- Flameshot
-- Gnome Tweaks
-- Neofetch
-- Cheese
-- Timeshift
-- Snap
-- Git
 - Vim
-- Audacity
-- Cmatrix
+- Git
 - Curl
 - NVM
-- Node.js (v16.14.2)
+- Node.js
+- Yarn
+- NPM global apps (Sass, Nodemon, Nativefier, Asciiquarium)
+- Snap
+- Flameshot
+- Gnome Tweaks
+- Cheese
+- Timeshift
+- Audacity
+- Neofetch
+- Cmatrix
+- Yes
+- Cowsay
 <br>
 
-## 📤 Programas externos
+## 📤 External apps
 
 - Vivaldi Browser
 - Discord
@@ -41,7 +45,7 @@ bash setup.sh
 - Visual Studio Code
 <br>
 
-## 📦 Pacotes Flatpak
+## 📦 Flatpak packages
 
 - Figma for Linux
 - Spotify
@@ -51,3 +55,8 @@ bash setup.sh
 - GIMP
 - VLC Media Player
 - OnlyOffice
+<br>
+
+## 💡 Bonus
+
+- CapsLock delay fixer
