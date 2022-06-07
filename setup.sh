@@ -93,6 +93,7 @@ echo ""
 
 npm i sass -g
 npm install -g nativefier
+npm install -g nodemon
 snap install asciiquarium
 sudo apt update
 sudo apt install -f
