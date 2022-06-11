@@ -1,6 +1,7 @@
 <h1 align="center">🐧 Pop!_OS - post-installation Shell Script</h1>
 
-<p align="center">Just a basic Pop!_OS post-installation Shell Script for personal use.</p>
+<p align="center">Just a basic Pop!_OS post-installation Shell Script for personal use.<br>
+<i>(Works in other Ubuntu-based distros with Flatpak pre-installed)</i></p>
 
 <br>
 <br>
