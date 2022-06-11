@@ -1,6 +1,7 @@
-# 🐧 Pop!_OS - Shell Script de pós-instalação
+<h1 align="center">🐧 Pop!_OS - post-installation Shell Script</h1>
 
-Just a basic Pop!_OS post-installation Shell Script for personal use.
+<p align="center">Just a basic Pop!_OS post-installation Shell Script for personal use.</p>
+
 <br>
 <br>
 
