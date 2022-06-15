@@ -87,17 +87,6 @@ done
 sudo apt update
 sudo apt install -f
 
-# ------ Installing some packages ------ #
-echo "[📦 Installing others packages]"
-echo ""
-
-npm i sass -g
-npm install -g nativefier
-npm install -g nodemon
-snap install asciiquarium
-sudo apt update
-sudo apt install -f
-
 # ------ Installing softwares ------ #
 echo "[📥 Downloading and installing external software]"
 echo ""
@@ -134,6 +123,17 @@ echo ""
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 source ~/.bashrc
 nvm install v16.15.1
+
+# ------ Installing some packages ------ #
+echo "[📦 Installing others packages]"
+echo ""
+
+npm i sass -g
+npm install -g nativefier
+npm install -g nodemon
+snap install asciiquarium
+sudo apt update
+sudo apt install -f
 
 # ------ Installing Yarn ------ #
 echo "[📦 Installing Yarn]"
