@@ -22,7 +22,7 @@
 
 ## 📥 Installation
 ```bash
-Move the setup.sh file to the /home folder
+# Move the setup.sh file to the /home folder
 
 # Execute the file
 bash setup.sh
