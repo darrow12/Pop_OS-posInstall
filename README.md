@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">🇺🇸 English Readme</a> • <a href="README-pt.md">🇧🇷 Portuguese Readme</a>
+  <a href="README.md">🇺🇸 EN-US Readme</a> • <a href="README-pt.md">🇧🇷 PT-BR Readme</a>
 </p>
 
 
