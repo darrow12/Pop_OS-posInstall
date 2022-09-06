@@ -5,8 +5,7 @@
   
   <h3>Pop!_OS post-installation</h3>
   
-  <p>Just a basic Pop!_OS post-installation Shell Script for personal use.<br>
-  <i>(Works in other Ubuntu-based distros with Flatpak pre-installed)</i></p>
+  <p>Just a basic Pop!_OS post-installation Shell Script for personal use.</p>
 </div>
 
 <p align="center">
