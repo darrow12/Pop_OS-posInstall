@@ -1,7 +1,13 @@
-<h1 align="center">🐧 Pop!_OS - post-installation Shell Script</h1>
-
-<p align="center">Just a basic Pop!_OS post-installation Shell Script for personal use.<br>
-<i>(Works in other Ubuntu-based distros with Flatpak pre-installed)</i></p>
+<div align="center">
+  <a href="https://github.com/darrow12/Pop_OS-posInstall/blob/main/setup.sh">
+    <img src="https://user-images.githubusercontent.com/47289706/188736085-335d9db9-618e-4470-8826-598345698b11.png" alt="Pinguim" height="64"/>
+  </a>
+  
+  <h3>Pop!_OS post-installation</h3>
+  
+  <p>Just a basic Pop!_OS post-installation Shell Script for personal use.<br>
+  <i>(Works in other Ubuntu-based distros with Flatpak pre-installed)</i></p>
+</div>
 
 <p align="center">
 
@@ -13,7 +19,11 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/darrow12/Pop_OS-posInstall?label=Last commit&color=6ACAD8&labelColor=000000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/darrow12/Pop_OS-posInstall?label=Repository size&color=6ACAD8&labelColor=000000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/darrow12/Pop_OS-posInstall?label=Repo size&color=6ACAD8&labelColor=000000">
+</p>
+
+<p align="center">
+  <a href="README.md">🇺🇸 English</a> • <a href="README-pt.md">Portuguese 🇧🇷</a>
 </p>
 
 
