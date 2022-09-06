@@ -29,6 +29,14 @@ bash setup.sh
 ```
 <br>
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Pop!_OS - post-installation Shell Script**
+| :label: Tecnologias | shell script
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![popos](https://user-images.githubusercontent.com/47289706/188706910-9762d089-45af-4425-a4b3-1b16f5cc5c7f.png#vitrinedev)
+
 ## ⌨️ Apps
 
 - Vim
