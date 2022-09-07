@@ -102,4 +102,4 @@ bash setup.sh
 
 - CapsLock delay fixer
 
- <a href='#top'>🔼 Back to top</a>
+ <a href='#top'>🔼 Voltar para o topo</a>
