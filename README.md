@@ -27,12 +27,13 @@
     • 
     <a href="README-pt.md">🇧🇷 PT-BR Readme</a>
   </p>
-  
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Pós-instalação Pop!_OS** - Shell Script
-| :label: Tecnologias | Shell Script
+| :sparkles: Nome        | ****Pós-instalação Pop!_OS** - Shell Script**
+| :label: Tecnologias | ShellScript
+| :rocket: URL         | https://github.com/darrow12/Pop_OS-posInstall/blob/main/setup.sh
+| :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![popos](https://user-images.githubusercontent.com/47289706/188706910-9762d089-45af-4425-a4b3-1b16f5cc5c7f.png#vitrinedev)
