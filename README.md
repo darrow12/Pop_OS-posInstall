@@ -31,7 +31,7 @@
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | ****Pós-instalação Pop!_OS** - Shell Script**
-| :label: Tecnologias | ShellScript
+| :label: Tecnologias | Shell Script
 | :rocket: URL         | https://github.com/darrow12/Pop_OS-posInstall/blob/main/setup.sh
 | :fire: Desafio     | -
 
