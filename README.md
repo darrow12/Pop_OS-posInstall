@@ -1,7 +1,7 @@
 <div align="center" id="top">
   <!-- Logo & Basic info project -->
-  <a href="https://github.com/darrow12/Pop_OS-posInstall/blob/main/setup.sh">
-    <img src="https://user-images.githubusercontent.com/47289706/188736085-335d9db9-618e-4470-8826-598345698b11.png" alt="Pinguim" height="64"/>
+  <a href="https://github.com/darrow12/Pop_OS-posInstall/releases/tag/v0.1.0">
+    <img src="./.github/logo.png" alt="Pinguim" height="64"/>
   </a>
   
   <h3>Pop!_OS post-installation</h3>
@@ -30,13 +30,13 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | ****Pós-instalação Pop!_OS** - Shell Script**
+| :sparkles: Nome        | **Pós-instalação Pop!_OS** - Shell Script**
 | :label: Tecnologias | Shell Script
 | :rocket: URL         | https://github.com/darrow12/Pop_OS-posInstall/blob/main/setup.sh
 | :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![popos](https://user-images.githubusercontent.com/47289706/188706910-9762d089-45af-4425-a4b3-1b16f5cc5c7f.png#vitrinedev)
+![popos](./.github/banner.png#vitrinedev)
 </div>
 
 
