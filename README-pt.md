@@ -17,7 +17,10 @@
   </a>
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/darrow12/Pop_OS-posInstall?label=Tamanho do Repo&color=6ACAD8&labelColor=000000">
-  <img alt="Contribuições abertas" src="https://img.shields.io/static/v1?label=Contribuicoes&message=abertas!&color=6ACAD8&labelColor=000000">
+  
+  <a href="https://github.com/darrow12/Pop_OS-posInstall/pulls">
+    <img alt="Contribuições abertas" src="https://img.shields.io/static/v1?label=Contribuicoes&message=abertas!&color=6ACAD8&labelColor=000000">
+  </a>
   
   <!-- Readme languages -->
   <br>
