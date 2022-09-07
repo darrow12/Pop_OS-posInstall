@@ -1,7 +1,7 @@
 <div align="center" id="top">
   <!-- Logo & Basic info project -->
   <a href="https://github.com/darrow12/Pop_OS-posInstall/releases/tag/v0.1.0">
-    <img src="./.github/logo.png" alt="Pinguim" height="64"/>
+    <img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/logo.png" alt="Pinguim" height="64"/>
   </a>
   
   <h3>Pop!_OS post-installation</h3>
@@ -39,7 +39,7 @@
 | :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![popos](./.github/banner.png#vitrinedev)
+![popos](https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/banner.png#vitrinedev)
 </div>
 
 
