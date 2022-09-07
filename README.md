@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="top">
   <!-- Logo & Basic info project -->
   <a href="https://github.com/darrow12/Pop_OS-posInstall/blob/main/setup.sh">
     <img src="https://user-images.githubusercontent.com/47289706/188736085-335d9db9-618e-4470-8826-598345698b11.png" alt="Pinguim" height="64"/>
@@ -28,8 +28,7 @@
     <a href="README-pt.md">🇧🇷 PT-BR Readme</a>
   </p>
   
- <br>
- 
+
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Pós-instalação Pop!_OS** - Shell Script
@@ -101,3 +100,5 @@ bash setup.sh
 ## 💡 Bonus
 
 - CapsLock delay fixer
+
+ <a href='#top'>🔼 Back to top</a>
