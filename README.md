@@ -6,6 +6,15 @@
   
   <h3>Pop!_OS post-installation</h3>
   <p>Just a basic Pop!_OS post-installation Shell Script for personal use.</p>
+
+  <!-- Readme languages -->
+  <p>
+    <a href="README-pt.md"><img src="https://user-images.githubusercontent.com/47289706/189030015-cdc02510-d8f4-4a3a-ac2e-be9b0813d387.png" height="12"> PT-BR Readme</a> 
+    • 
+    <a href="README.md"><img src="https://user-images.githubusercontent.com/47289706/189029917-8df411af-08aa-4a0a-96d4-b7edb73b7b8a.png" height="12"> EN-US Readme</a>
+  </p>
+  
+  <br>
   
   <!-- Badges-->
   <a href="https://github.com/darrow12">
@@ -20,16 +29,9 @@
   <a href="https://github.com/darrow12/Pop_OS-posInstall/pulls">
     <img alt="Contributions welcome" src="https://img.shields.io/static/v1?label=Contributions&message=welcome!&color=6ACAD8&labelColor=000000">
   </a>
-  
-  
-  <!-- Readme languages -->
-  <br>
-  <br>
-  <p>
-    <a href="README.md">🇺🇸 EN-US Readme</a> 
-    • 
-    <a href="README-pt.md">🇧🇷 PT-BR Readme</a>
-  </p>
+
+<br>
+<br>
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
