@@ -108,3 +108,7 @@ bash setup.sh
 - CapsLock delay fixer
 
  <a href='#top'>🔼 Back to top</a>
+
+<br>
+
+<p align="center">Developed with 💙 by <a href="https://github.com/darrow12">Darrow</a></p>
