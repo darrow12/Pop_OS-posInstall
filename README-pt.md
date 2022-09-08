@@ -6,6 +6,15 @@
   
   <h3>Pop!_OS pós-instalação</h3>
   <p>Apenas um Shell Script de pós-instalação do Pop!_OS para uso pessoal.</p>
+
+  <!-- Readme languages -->
+  <p>
+    <a href="README.md"><img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/us.png" height="12"> EN-US Readme</a> 
+    • 
+    <a href="README-pt.md"><img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/br.png" height="12"> PT-BR Readme</a> 
+  </p>
+
+  <br>
   
   <!-- Badges-->
   <a href="https://github.com/darrow12">
@@ -21,15 +30,9 @@
   <a href="https://github.com/darrow12/Pop_OS-posInstall/pulls">
     <img alt="Contribuições abertas" src="https://img.shields.io/static/v1?label=Contribuicoes&message=abertas!&color=6ACAD8&labelColor=000000">
   </a>
-  
-  <!-- Readme languages -->
+
   <br>
   <br>
-  <p>
-    <a href="README.md">🇺🇸 EN-US Readme</a> 
-    • 
-    <a href="README-pt.md">🇧🇷 PT-BR Readme</a>
-  </p>
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -106,3 +109,7 @@ bash setup.sh
 - CapsLock delay fixer
 
  <a href='#top'>🔼 Voltar para o topo</a>
+
+<br>
+
+<p align="center">Desenvolvido com 💙 por <a href="https://github.com/darrow12">Darrow</a></p>

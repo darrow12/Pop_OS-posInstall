@@ -9,9 +9,9 @@
 
   <!-- Readme languages -->
   <p>
-    <a href="README-pt.md"><img src="https://user-images.githubusercontent.com/47289706/189030015-cdc02510-d8f4-4a3a-ac2e-be9b0813d387.png" height="12"> PT-BR Readme</a> 
+    <a href="README-pt.md"><img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/br.png" height="12"> PT-BR Readme</a> 
     • 
-    <a href="README.md"><img src="https://user-images.githubusercontent.com/47289706/189029917-8df411af-08aa-4a0a-96d4-b7edb73b7b8a.png" height="12"> EN-US Readme</a>
+    <a href="README.md"><img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/us.png" height="12"> EN-US Readme</a>
   </p>
   
   <br>
