@@ -26,15 +26,16 @@
 <br>
 <br>
 
+
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Script de Pós-instalação para Pop!_OS**
-| :label: Tecnologias | Shell
-| :rocket: URL         | https://github.com/darrow12/Pop_OS-posInstall/blob/main/setup.sh
-| :fire: Desafio     | -
+| :label: Tecnologias | shell
+| :rocket: URL         | https://github.com/darrow12/Pop_OS-posInstall/releases/tag/v0.1.0
+| :fire: Desafio     | Não tem
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![popos](https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/banner.png#vitrinedev)
+![](https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/banner.png#vitrinedev)
 </div>
 
 
