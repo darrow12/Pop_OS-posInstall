@@ -17,18 +17,11 @@
   <br>
   
   <!-- Badges-->
-  <a href="https://github.com/darrow12">
-    <img src="https://img.shields.io/static/v1?label=Made by&message=Darrow&color=6ACAD8&labelColor=000000&style=<STYLE>&logo=github" alt="Made by Darrow" title="Made by Darrow">
-  </a>
-
-  <a href="https://github.com/darrow12/Pop_OS-posInstall/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/darrow12/Pop_OS-posInstall?label=Last commit&color=6ACAD8&labelColor=000000">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/darrow12/Pop_OS-posInstall?label=Repo size&color=6ACAD8&labelColor=000000">
-  <a href="https://github.com/darrow12/Pop_OS-posInstall/pulls">
-    <img alt="Contributions welcome" src="https://img.shields.io/static/v1?label=Contributions&message=welcome!&color=6ACAD8&labelColor=000000">
-  </a>
+  [![Made by Darrow](https://img.shields.io/badge/Made%20by-Darrow-6ACAD8?logo=github)](https://github.com/darrow12)
+  [![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-6ACAD8)](https://github.com/darrow12/Pop_OS-posInstall/pulls)
+  [![Last commit](https://img.shields.io/github/last-commit/darrow12/Pop_OS-posInstall?color=6ACAD8&label=Last%20commit)](https://github.com/darrow12/Pop_OS-posInstall/commits/main)
+  ![Repo size](https://img.shields.io/github/repo-size/darrow12/Pop_OS-posInstall?color=6ACAD8&label=Repo%20size)
+  ![License: MIT](https://img.shields.io/github/license/darrow12/Pop_OS-posInstall?color=6ACAD8&label=License&labelColor=5a5a5a)
 
 <br>
 <br>
