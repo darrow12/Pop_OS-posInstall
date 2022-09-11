@@ -21,7 +21,7 @@
   [![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-6ACAD8)](https://github.com/darrow12/Pop_OS-posInstall/pulls)
   [![Last commit](https://img.shields.io/github/last-commit/darrow12/Pop_OS-posInstall?color=6ACAD8&label=Last%20commit)](https://github.com/darrow12/Pop_OS-posInstall/commits/main)
   ![Repo size](https://img.shields.io/github/repo-size/darrow12/Pop_OS-posInstall?color=6ACAD8&label=Repo%20size)
-  ![License: MIT](https://img.shields.io/github/license/darrow12/Pop_OS-posInstall?color=6ACAD8&label=License&labelColor=5a5a5a)
+  [![License: MIT](https://img.shields.io/github/license/darrow12/Pop_OS-posInstall?color=6ACAD8&label=License&labelColor=5a5a5a)](https://github.com/darrow12/Pop_OS-posInstall/blob/main/LICENSE)
 
 <br>
 <br>
