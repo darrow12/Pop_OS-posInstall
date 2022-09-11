@@ -9,7 +9,7 @@
 
   <!-- Readme languages -->
   <p>
-    <a href="README.md"><img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/us.png" height="12"> EN-US Readme</a> 
+    <a href="https://github.com/darrow12/Pop_OS-posInstall#readme"><img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/us.png" height="12"> EN-US Readme</a> 
     • 
     <a href="README-pt.md"><img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/br.png" height="12"> PT-BR Readme</a> 
   </p>
