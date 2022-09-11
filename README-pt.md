@@ -17,34 +17,16 @@
   <br>
   
   <!-- Badges-->
-  <a href="https://github.com/darrow12">
-    <img src="https://img.shields.io/static/v1?label=Feito por&message=Darrow&color=6ACAD8&labelColor=000000&style=<STYLE>&logo=github" alt="Feito por Darrow">
-  </a>
-
-  <a href="https://github.com/darrow12/Pop_OS-posInstall/commits/main">
-    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/darrow12/Pop_OS-posInstall?label=Último commit&color=6ACAD8&labelColor=000000">
-  </a>
-
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/darrow12/Pop_OS-posInstall?label=Tamanho do Repo&color=6ACAD8&labelColor=000000">
-  
-  <a href="https://github.com/darrow12/Pop_OS-posInstall/pulls">
-    <img alt="Contribuições abertas" src="https://img.shields.io/static/v1?label=Contribuicoes&message=abertas!&color=6ACAD8&labelColor=000000">
-  </a>
+  [![Feito por Darrow](https://img.shields.io/badge/Criado%20por-Darrow-6ACAD8?logo=github)](https://github.com/darrow12)
+  [![Contribuições abertas](https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-abertas-6ACAD8)](https://github.com/darrow12/Pop_OS-posInstall/pulls)
+  [![Último commit](https://img.shields.io/github/last-commit/darrow12/Pop_OS-posInstall?color=6ACAD8&label=%C3%9Altimo%20commit)](https://github.com/darrow12/Pop_OS-posInstall/commits/main)
+  ![Tamanho do repositório](https://img.shields.io/github/repo-size/darrow12/Pop_OS-posInstall?color=6ACAD8&label=Tamanho%20do%20repo)
+  [![Licença: MIT](https://img.shields.io/github/license/darrow12/Pop_OS-posInstall?color=6ACAD8&label=Licen%C3%A7a&labelColor=5a5a5a)](https://github.com/darrow12/Pop_OS-posInstall/blob/main/LICENSE)
 
   <br>
-  <br>
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Script de Pós-instalação para Pop!_OS**
-| :label: Tecnologias | Shell
-| :rocket: URL         | https://github.com/darrow12/Pop_OS-posInstall/blob/main/setup.sh
-| :fire: Desafio     | -
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![popos](./.github/banner.png#vitrinedev)
+  ![popos](./.github/banner.png#vitrinedev)
 </div>
-
 
 <br>
 <br>
