@@ -100,8 +100,14 @@ bash setup.sh
 ## 💡 Bonus
 
 - CapsLock delay fixer
+<br>
 
- <a href='#top'>🔼 Back to top</a>
+## 🏷️ · License
+
+This project is under the MIT license. See the <a href="https://github.com/darrow12/Pop_OS-posInstal/blob/main/LICENSE">LICENSE</a> file for more details.
+<br>
+
+<a href='#top'>🔼 Back to top</a>
 
 <br>
 
