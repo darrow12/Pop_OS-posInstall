@@ -35,7 +35,7 @@
 | :fire: Desafio     | Não tem
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/banner.png#vitrinedev)
+![](https://raw.githubusercontent.com/darrow12/Pop_OS-posInstall/main/.github/banner.png#vitrinedev)
 </div>
 
 
