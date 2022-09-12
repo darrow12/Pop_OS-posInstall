@@ -42,7 +42,7 @@
 <br>
 <br>
 
-## 📥 Installation
+## 📥 · Installation
 ```bash
 # Move the setup.sh file to the /home folder
 
@@ -53,7 +53,7 @@ bash setup.sh
 
 
 
-## ⌨️ Apps
+## ⌨️ · Apps
 
 - Vim
 - Git
@@ -74,7 +74,7 @@ bash setup.sh
 - Cowsay
 <br>
 
-## 📤 External apps
+## 📤 · External apps
 
 - Vivaldi Browser
 - Discord
@@ -85,7 +85,7 @@ bash setup.sh
 - Visual Studio Code
 <br>
 
-## 📦 Flatpak packages
+## 📦 · Flatpak packages
 
 - Figma for Linux
 - Spotify
@@ -97,7 +97,7 @@ bash setup.sh
 - OnlyOffice
 <br>
 
-## 💡 Bonus
+## 💡 · Bonus
 
 - CapsLock delay fixer
 <br>
@@ -105,6 +105,7 @@ bash setup.sh
 ## 🏷️ · License
 
 This project is under the MIT license. See the <a href="https://github.com/darrow12/Pop_OS-posInstal/blob/main/LICENSE">LICENSE</a> file for more details.
+<br>
 <br>
 
 <a href='#top'>🔼 Back to top</a>
