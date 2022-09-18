@@ -17,6 +17,10 @@ APPS_TO_INSTALL=(
   yes
   cowsay
   figlet
+  sl
+  libaa-bin
+  fortune
+  oneko
 )
 
 URL_VIVALDI="https://downloads.vivaldi.com/stable/vivaldi-stable_5.3.2679.38-1_amd64.deb"

@@ -62,6 +62,10 @@ bash setup.sh
 - Yes
 - Cowsay
 - FIGlet
+- SL (Steam Locomotive)
+- Aafire
+- Fortune
+- Oneko
 <br>
 
 ## 📤 Programas externos
