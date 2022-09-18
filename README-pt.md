@@ -61,6 +61,7 @@ bash setup.sh
 - Cmatrix
 - Yes
 - Cowsay
+- FIGlet
 <br>
 
 ## 📤 Programas externos

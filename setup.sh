@@ -16,6 +16,7 @@ APPS_TO_INSTALL=(
   cmatrix
   yes
   cowsay
+  figlet
 )
 
 URL_VIVALDI="https://downloads.vivaldi.com/stable/vivaldi-stable_5.3.2679.38-1_amd64.deb"
@@ -178,5 +179,6 @@ echo "✅ Installation completed!"
 echo "Enjoy your new computer! 💻"
 echo ""
 echo "💬 If you have any questions, please contact me on Discord: Darrow#9826"
+echo "And if you have bugs, please make a issue"
 echo ""
 cowsay Have fun!

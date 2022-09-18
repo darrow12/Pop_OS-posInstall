@@ -4,8 +4,8 @@
     <img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/logo.png" alt="Pinguim" height="64"/>
   </a>
   
-  <h3>Pop!_OS post-installation</h3>
-  <p>Just a basic Pop!_OS post-installation Shell Script for personal use.</p>
+  <h3>Pop!_OS pos-installation</h3>
+  <p>Just a basic Pop!_OS pos-installation Shell Script for personal use.</p>
 
   <!-- Readme languages -->
   <p>
@@ -72,6 +72,7 @@ bash setup.sh
 - Cmatrix
 - Yes
 - Cowsay
+- FIGlet
 <br>
 
 ## 📤 · External apps
